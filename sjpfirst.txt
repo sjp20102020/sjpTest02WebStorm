@@ -1,1 +1,2 @@
 my first line1
+commit from git3. 2nd series commit
